@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ruy Adorno",
+      "authorEmail": "ruyadorno@hotmail.com",
+      "authorUrl": "http://ruyadorno.com"
+    }
+  }
+}
