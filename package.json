@@ -7,7 +7,7 @@
     "url": "http://ruyadorno.com"
   },
   "files": [
-    "lib"
+    "lib/index.js"
   ],
   "main": "lib/index.js",
   "keywords": [
