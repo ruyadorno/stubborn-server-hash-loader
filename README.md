@@ -3,6 +3,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Coverage percentage][coveralls-image]][coveralls-url]
+[![License MIT][license-image]][license-url]
 
 > Loader plugin for stubborn-server
 
@@ -48,3 +49,5 @@ MIT © [Ruy Adorno](http://ruyadorno.com)
 [travis-url]: https://travis-ci.org/ruyadorno/stubborn-server-hash-loader
 [coveralls-image]: https://coveralls.io/repos/ruyadorno/stubborn-server-hash-loader/badge.svg
 [coveralls-url]: https://coveralls.io/r/ruyadorno/stubborn-server-hash-loader
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: https://raw.githubusercontent.com/ruyadorno/request-hash/master/LICENSE
