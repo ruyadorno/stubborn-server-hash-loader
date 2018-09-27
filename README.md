@@ -29,7 +29,8 @@ stub.start({
   plugins: [
     {
       loader: hashLoader({
-        // config options
+        // config options, accepts all options from request-hash
+        // see: https://github.com/ruyadorno/request-hash
       })
     }
   ]
