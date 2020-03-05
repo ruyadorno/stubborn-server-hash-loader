@@ -1,6 +1,6 @@
 {
   "name": "stubborn-server-hash-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loader plugin for stubborn-server",
   "author": {
     "name": "Ruy Adorno",
